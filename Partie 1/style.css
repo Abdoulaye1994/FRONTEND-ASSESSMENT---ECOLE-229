@@ -1,0 +1,135 @@
+
+
+nav {
+    text-align: center;
+    background-color: rgb(70,101,127);
+    padding-bottom: 30px;
+}
+
+
+.beer {
+    color: white;
+}
+
+.form {
+    border: 2px solid black;
+    border-radius: 1px;
+}
+.favorite {
+    position: relative;
+    margin: left;
+    padding-left: 1350px;
+    color: white;
+}
+
+
+.classe1{
+    
+    justify-content: center;
+    display: flex;
+}
+
+
+.classe2{
+    
+    justify-content: center;
+    display: flex;
+}
+
+.classe3{
+    justify-content: center;
+    display: flex;
+
+}
+
+
+.container {
+    background: #e7d1d1;
+
+}
+
+ .images1 {
+    margin: auto;
+    background-color: white;
+    margin: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+
+.images2 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-right: 50px;
+    padding-top: 20px
+}
+
+.images3 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.images4 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px
+}
+
+.images5 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px
+}
+
+.images6 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px
+}
+
+.images7 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px
+}
+
+.images8 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+}
+
+.images9 {
+    background-color: white;
+    margin: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    
+    
+}
+
+.etoile {
+    position: absolute;
+    z-index: 1;
+    margin-top: -20px;
+    margin-left: 200px
+}
+

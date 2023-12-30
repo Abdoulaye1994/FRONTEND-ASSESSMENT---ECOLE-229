@@ -1,0 +1,130 @@
+﻿Partie 3 : QCM (6pts)
+
+Question 1:
+Quel langage est utilisé pour structurer le contenu d'une page web?
+
+a) HTML
+
+b) CSS
+
+
+Question 2:
+Quelle balise est utilisée pour créer un lien hypertexte en HTML?
+
+b) <a>
+
+
+Question 3:
+Comment sélectionnez-vous un élément HTML spécifique avec JavaScript?
+
+ a) #element
+
+
+Question 4:
+Quelle propriété CSS est utilisée pour définir la couleur du texte?
+
+b) color
+
+
+Question 5:
+Quel attribut HTML est utilisé pour spécifier le texte alternatif d'une
+image?
+
+c) src
+
+Question 6:
+Quelle balise HTML est utilisée pour définir le contenu principal de la
+page?
+
+a) <main>
+
+
+Question 7:
+Comment incluez-vous du code JavaScript dans un fichier HTML?
+
+a) <script>...</script>
+
+
+Question 8:
+Quelle propriété CSS est utilisée pour définir la taille de la police?
+
+a) font-size
+
+Question 9:
+Quelle fonction JavaScript est utilisée pour afficher une boîte de dialogue
+avec un message?
+
+a) alert()
+
+
+Question 10:
+Quelle balise HTML est utilisée pour créer une liste non ordonnée?
+
+a) <ul>
+
+Question 11:
+Comment ajoutez-vous un commentaire en CSS?
+
+b) /* Comment */
+
+Question 12:
+Quelle méthode JavaScript est utilisée pour changer le contenu HTML
+d'un élément?
+
+b) innerHTML()
+
+
+Question 13:
+Quelle propriété CSS est utilisée pour définir la marge intérieure d'un
+élément?
+
+a) padding
+
+
+Question 14:
+Quelle balise HTML est utilisée pour créer un tableau?
+
+a) <table>
+
+
+Question 15:
+Comment centrer un élément horizontalement en CSS?
+
+b) text-align: center;
+
+
+Question 16:
+Quelle fonction JavaScript est utilisée pour générer un nombre aléatoire?
+
+b) Math.random()
+
+
+Question 17:
+Quel attribut HTML est utilisé pour définir une classe CSS?
+
+a) class
+
+
+Question 18:
+Quelle balise HTML est utilisée pour créer un formulaire?
+
+a) <form>
+
+
+Question 19:
+Comment déclarez-vous une variable en JavaScript?
+
+a) var myVariable;
+
+c) let myVariable;
+
+d) const myVariable;
+
+Question 20:
+Quelle propriété CSS est utilisée pour définir l'espacement entre les
+lignes de texte?
+
+a) line-height
+
+
+
